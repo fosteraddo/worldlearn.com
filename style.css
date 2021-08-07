@@ -1,0 +1,12 @@
+body {
+    background-color: skyblue;
+    line-height: 2.2;
+}
+
+#menu {
+    display: flex;
+    font-display: 50px;
+    font-size: 300%;
+    text-align: right;
+    
+}
